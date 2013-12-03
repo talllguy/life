@@ -13,6 +13,7 @@
 - 1993-2002 Family @ Boxmere Court 1.0
 - 09/1993-06/1994 5th grade @ Timonium Elementary
 - 09/1994-05/2001 St. Paul's
+- 1995-2001 Redeemer Youth Group
 - 09/1994-06/1998 Middle School
 - 09/1998-05/2001 High School
 - 31/01/2001 First drink
