@@ -53,8 +53,8 @@
 - 05/2011-10/2011 Manager @ Gadget Guru
 - 08/2011-08/2012 Lived on Burke Ave
 - 11/2011-~ GIS Spec I @ Baltimore County GIS
-- 28-10-2011 Met Meredith
-- 28-10-2011-~ With Meredith
+- 28/10/2011 Met Meredith
+- 28/10/2011-~ With Meredith
 - 09/2012-08/2013 Lived w/ Meredith @ Elliott St.
 - 21/03/2013 Proposed to Meredith
 - 21/03/2013-~ Engaged to Meredith
