@@ -1,16 +1,16 @@
-@tallguy's life
-===============
+@talllguy's life
+================
 
 - 09/01/1983 Born
-- 1984 Family moved to Charmuth Road
+- 1984-1986 Family @ Charmuth Road
 - 22/09/1984 Got a brother: Holden
-- 1987 Family moved to Valley Court Road
+- 1987-1992 Family @ Valley Court Road
 - 09/1988-06/1991 Kindergarten, 1st, 2nd grade @ Hampton Elementary
 - 12/11/1987 Got a sister: Hayley
 - 1989 Met Aidan, been friends ever since
 - 09/1991-06/1993 3rd, 4th grade @ Pot Spring Elementary
 - 18/11/1991 Got another sister: Martha
-- 1993 Family moved to Boxmere Court 1.0
+- 1993-2002 Family @ Boxmere Court 1.0
 - 09/1993-06/1994 5th grade @ Timonium Elementary
 - 09/1994-05/2001 St. Paul's
 - 09/1994-06/1998 Middle School
@@ -25,7 +25,7 @@
 - 09/2002 Outward Bound @ Joshua Tree
 - 10/2002-08/2003 Backserver @ Elkridge Country Club
 - 01/2003-05/2003 College 1.5 @ Essex CC
-- 2003 Family moved to Boxmere Court 2.0
+- 2003-2012 Family @ Boxmere Court 2.0
 - 08/2003-12/2004 College 2.0 @ Norwich
 - 18/03/2004 Joined the US Army as 88M10
 - 18/03/2004-17/03/2013 88M @ US Army
@@ -52,8 +52,8 @@
 - 04/2011-08/2011 Lived @ CopyCat Building
 - 05/2011-10/2011 Manager @ Gadget Guru
 - 08/2011-08/2012 Lived on Burke Ave
-- 11/2011-~ GIS Spec I @ Baltimore County GIS
-- 28/10/2011 Met Meredith
+- 11/2011-~ GIS Specialist I @ Baltimore County GIS
+- 28/10/2011 First date with Meredith
 - 28/10/2011-~ With Meredith
 - 09/2012-08/2013 Lived w/ Meredith @ Elliott St.
 - 21/03/2013 Proposed to Meredith
