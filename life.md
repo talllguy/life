@@ -1,22 +1,64 @@
-@cheeaun's life
+@tallguy's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 09/01/1983 Born
+- 1984 Family moved to Charmuth Road
+- 22/09/1984 Got a brother: Holden
+- 1987 Family moved to Valley Court Road
+- 09/1988-06/1991 Kindergarten, 1st, 2nd grade @ Hampton Elementary
+- 12/11/1987 Got a sister: Hayley
+- 1989 Met Aidan, been friends ever since
+- 09/1991-06/1993 3rd, 4th grade @ Pot Spring Elementary
+- 18/11/1991 Got another sister: Martha
+- 1993 Family moved to Boxmere Court 1.0
+- 09/1993-06/1994 5th grade @ Timonium Elementary
+- 09/1994-05/2001 St. Paul's
+- 09/1994-06/1998 Middle School
+- 09/1998-05/2001 High School
+- 31/01/2001 First drink
+- 2000-2001 Worked @ Bagel Works
+- 06/2001-09/2001 Summer Job @ JHU Bookstore
+- 07/2001 Camp Counsellor @ Camp Wright
+- 09/2001-04/2002 College 1.0 @ Drexel
+- 04/2002-10/2002 Work @ JHU Bookcenter
+- 05/2002 First Cell Phone (Nokia)
+- 09/2002 Outward Bound @ Joshua Tree
+- 10/2002-08/2003 Backserver @ Elkridge Country Club
+- 01/2003-05/2003 College 1.5 @ Essex CC
+- 2003 Family moved to Boxmere Court 2.0
+- 08/2003-12/2004 College 2.0 @ Norwich
+- 18/03/2004 Joined the US Army as 88M10
+- 18/03/2004-17/03/2013 88M @ US Army
+- 06/2004-08/2004 Boot Camp @ Fort Jackson, SC
+- 01/2005-06/2005 Laborer @ Interlock Paving
+- 05/2005-11/2005 Dated Katie E
+- 06/2005-07/2005 AIT @ Fort Leonard Wood, MO
+- 08/2005-01/2006 Courier @ FedexOffice
+- 08/2005-04/2009 Worked for FedEx
+- 01/2006-05/2009 College 3.0 @ Towson University
+- 01/2006-05/2006 Physics Major
+- 2006-2007 Lived with Holden in Towson
+- 06/2006-05/2009 Geography Major
+- 05/2007 Intern @ CGIS
+- 2006-2010 Name withdrawn
+- 18/05/2009 Last drink
+- 06/2009-12/2009 Intern @ Baltimore County GIS
+- 04/02/2010-15/04/2011 Army Mobilization
+- 02/2010 Fort Devens, MA
+- 03/2010 Fort Riley, KS
+- 04/2010 Fort Hunter-Liggett, CA
+- 05/2010-06/2010 Camp Atterbury, IN
+- 07/2010-04/2011 COB Speicher, Iraq
+- 04/2011-08/2011 Lived @ CopyCat Building
+- 05/2011-10/2011 Manager @ Gadget Guru
+- 08/2011-08/2012 Lived on Burke Ave
+- 11/2011-~ GIS Spec I @ Baltimore County GIS
+- 28-10-2011 Met Meredith
+- 28-10-2011-~ With Meredith
+- 09/2012-08/2013 Lived w/ Meredith @ Elliott St.
+- 21/03/2013 Proposed to Meredith
+- 21/03/2013-~ Engaged to Meredith
+- 22/03/2013 Adopted Papa
+- 22/03/2013-~ Papa brings joy
+- 08/2013-~ Living with Meredith on Kenwood
+- 09/2013-~ Grad School: M.S. Computer Science @ Towson U
