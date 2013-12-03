@@ -2,22 +2,26 @@
 ================
 
 - 09/01/1983 Born
-- 1984-1986 Family @ Charmuth Road
+- 1983 Family @ Lake Ave
+- ~1984-~1986 Family @ Charmuth Road
 - 22/09/1984 Got a brother: Holden
 - 1987-1992 Family @ Valley Court Road
 - 09/1988-06/1991 Kindergarten, 1st, 2nd grade @ Hampton Elementary
 - 12/11/1987 Got a sister: Hayley
-- 1989 Met Aidan, been friends ever since
+- ~1989 Met Aidan, been friends ever since
 - 09/1991-06/1993 3rd, 4th grade @ Pot Spring Elementary
 - 18/11/1991 Got another sister: Martha
-- 1993-2002 Family @ Boxmere Court 1.0
+- ~1993-~2002 Family @ Boxmere Court 1.0
 - 09/1993-06/1994 5th grade @ Timonium Elementary
 - 09/1994-05/2001 St. Paul's
-- 1995-2001 Redeemer Youth Group
+- ~1995-~2001 Redeemer Youth Group
 - 09/1994-06/1998 Middle School
+- 01/1998-04/2001 Volunteer @ JH Bayview in Robotics
 - 09/1998-05/2001 High School
+- 09/2000-03/2001 Worked @ Bagel Works
+- ~2000-~2001 Volunteer @ St. Joseph Med Center
+- 06/2000-09/2001 Attendant @ Black Horse Golf
 - 31/01/2001 First drink
-- 2000-2001 Worked @ Bagel Works
 - 06/2001-09/2001 Summer Job @ JHU Bookstore
 - 07/2001 Camp Counsellor @ Camp Wright
 - 09/2001-04/2002 College 1.0 @ Drexel
