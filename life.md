@@ -11,13 +11,18 @@
 - ~1989 Met Aidan, been friends ever since
 - 09/1991-06/1993 3rd, 4th grade @ Pot Spring Elementary
 - 18/11/1991 Got another sister: Martha
-- ~1993-~2002 Family @ Boxmere Court 1.0
+- 1993-2002 Family @ Boxmere Court 1.0
 - 09/1993-06/1994 5th grade @ Timonium Elementary
 - 09/1994-05/2001 St. Paul's
 - ~1995-~2001 Redeemer Youth Group
 - 09/1994-06/1998 Middle School
 - 01/1998-04/2001 Volunteer @ JH Bayview in Robotics
 - 09/1998-05/2001 High School
+- 1998 F/S Soccer
+- 01/1999 Got Drivers License
+- 01/1999-08/2001 First car: '87 MB 300TD 
+- 1999-2001 JV Cross Country
+- 2000-2001 JV Golf
 - 09/2000-03/2001 Worked @ Bagel Works
 - ~2000-~2001 Volunteer @ St. Joseph Med Center
 - 06/2000-09/2001 Attendant @ Black Horse Golf
