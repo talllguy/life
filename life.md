@@ -48,12 +48,14 @@
 - 01/2006-05/2009 College 3.0 @ Towson University
 - 01/2006-05/2006 Physics Major
 - 2006-2007 Lived @ 116 E Susquehanna Ave w/ Holden
+- 27/05/2006 Met Liza
+- 05/2006-28/09/2009 Liza
 - 06/2006-05/2009 Geography Major
 - 05/2007 Intern @ CGIS
-- 27/05/2006-09/28/2009 Liza
 - 31/08/2007-02/08/2008 Engaged to Liza
-- 02/08/2008-09/28/2009 Married to Liza
-- 09/28/2009-24/02/2012 Separated from Liza
+- 02/08/2008-28/09/2009 Married to Liza
+- 28/09/2009-24/02/2012 Separated from Liza
+- 28/09/2009 Lived @ 604 Boxmere Ct. w/ Parents
 - 18/05/2009 Last drink
 - 18/05/2009-~ Sober
 - 06/2009-12/2009 Intern @ Baltimore County GIS
@@ -65,7 +67,7 @@
 - 07/2010-04/2011 COB Speicher, Iraq
 - 04/2011-08/2011 Lived @ CopyCat Building
 - 05/2011-10/2011 Manager @ Gadget Guru
-- 08/2011-08/2012 Lived on Burke Ave
+- 08/2011-08/2012 Lived @ 242 Burke Ave w/ Dan, Jay
 - 11/2011-03/2015 GIS Specialist I @ Baltimore County GIS
 - 28/10/2011 First date with Meredith
 - 28/10/2011-~ Meredith
