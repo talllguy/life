@@ -76,8 +76,9 @@
 - 22/03/2013 Adopted Papa
 - 22/03/2013-30/06/2016 Papa
 - 08/2013-~ Living with Meredith on Kenwood
-- 09/2013-~ Grad School: M.S. Computer Science @ Towson U
+- 09/2013-12/2014 Grad School: M.S. Computer Science @ Towson U
 - 08/06/2014 Wedding!
 - 08/06/2014-~ Married to Meredith
+- 12/2014-~ Grad School: M.S AIT @ Towson U
 - 27/02/2015 Sold 116 E Susquehanna Ave
 - 03/2015-~ Business Analyst @ KCI Technologies, Inc.
