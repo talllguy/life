@@ -2,19 +2,19 @@
 ================
 
 - 09/01/1983 Born
-- 1983 Family @ Lake Ave
-- ~1984-~1986 Family @ Charmuth Road
-- 22/09/1984 Got a brother: Holden
-- 1987-1992 Family @ Valley Court Road
+- 09/01/1983-1984 Lived @ Lake Ave w/ Family
+- 1984-~1986 Lived @ 1619 Charmuth Road w/ Family
+- 22/09/1984-~ Brother: Holden
+- 1987-1992 Lived @ 303 Valley Court Road
 - 09/1988-06/1991 Kindergarten, 1st, 2nd grade @ Hampton Elementary
-- 12/11/1987 Got a sister: Hayley
+- 12/11/1987-~ Sister: Hayley
 - ~1989 Met Aidan, been friends ever since
 - 09/1991-06/1993 3rd, 4th grade @ Pot Spring Elementary
-- 18/11/1991 Got another sister: Martha
-- 1993-2002 Family @ Boxmere Court 1.0
+- 18/11/1991-~ Sister: Martha
+- 1993-2002 Lived @ 603 Boxmere Court w/ Family
 - 09/1993-06/1994 5th grade @ Timonium Elementary
-- 09/1994-05/2001 St. Paul's
-- ~1995-~2001 Redeemer Youth Group
+- 09/1994-05/2001 Attended St. Paul's School
+- 1995-2001 Redeemer Youth Group
 - 09/1994-06/1998 Middle School
 - 01/1998-04/2001 Volunteer @ JH Bayview in Robotics
 - 09/1998-05/2001 High School
@@ -24,7 +24,7 @@
 - 1999-2001 JV Cross Country
 - 2000-2001 JV Golf
 - 09/2000-03/2001 Worked @ Bagel Works
-- ~2000-~2001 Volunteer @ St. Joseph Med Center
+- 2000-2001 Volunteer @ St. Joseph Med Center
 - 06/2000-09/2001 Attendant @ Black Horse Golf
 - 31/01/2001 First drink
 - 06/2001-09/2001 Summer Job @ JHU Bookstore
@@ -41,17 +41,21 @@
 - 18/03/2004-17/03/2013 88M @ US Army
 - 06/2004-08/2004 Boot Camp @ Fort Jackson, SC
 - 01/2005-06/2005 Laborer @ Interlock Paving
-- 05/2005-11/2005 Dated Katie E
+- 05/2005-11/2005 Katie
 - 06/2005-07/2005 AIT @ Fort Leonard Wood, MO
 - 08/2005-01/2006 Courier @ FedexOffice
 - 08/2005-04/2009 Worked for FedEx
 - 01/2006-05/2009 College 3.0 @ Towson University
 - 01/2006-05/2006 Physics Major
-- 2006-2007 Lived with Holden in Towson
+- 2006-2007 Lived @ 116 E Susquehanna Ave w/ Holden
 - 06/2006-05/2009 Geography Major
 - 05/2007 Intern @ CGIS
-- 2006-2010 Name withdrawn
+- 27/05/2006-09/28/2009 Liza
+- 31/08/2007-02/08/2008 Engaged to Liza
+- 02/08/2008-09/28/2009 Married to Liza
+- 09/28/2009-24/02/2012 Separated from Liza
 - 18/05/2009 Last drink
+- 18/05/2009-~ Sober
 - 06/2009-12/2009 Intern @ Baltimore County GIS
 - 04/02/2010-15/04/2011 Army Mobilization
 - 02/2010 Fort Devens, MA
@@ -62,13 +66,18 @@
 - 04/2011-08/2011 Lived @ CopyCat Building
 - 05/2011-10/2011 Manager @ Gadget Guru
 - 08/2011-08/2012 Lived on Burke Ave
-- 11/2011-~ GIS Specialist I @ Baltimore County GIS
+- 11/2011-03/2015 GIS Specialist I @ Baltimore County GIS
 - 28/10/2011 First date with Meredith
-- 28/10/2011-~ With Meredith
+- 28/10/2011-~ Meredith
+- 24/02/2012 Divorce from Liza official
 - 09/2012-08/2013 Lived w/ Meredith @ Elliott St.
 - 21/03/2013 Proposed to Meredith
-- 21/03/2013-~ Engaged to Meredith
+- 21/03/2013-08/06/2014 Engaged to Meredith
 - 22/03/2013 Adopted Papa
-- 22/03/2013-~ Papa brings joy
+- 22/03/2013-30/06/2016 Papa
 - 08/2013-~ Living with Meredith on Kenwood
 - 09/2013-~ Grad School: M.S. Computer Science @ Towson U
+- 08/06/2014 Wedding!
+- 08/06/2014-~ Married to Meredith
+- 27/02/2015 Sold 116 E Susquehanna Ave
+- 03/2015-~ Business Analyst @ KCI Technologies, Inc.
